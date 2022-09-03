@@ -38,6 +38,7 @@ listaCompras.splice(posEliminarMulti, cantEliminarMulti);
 listaCompras.splice(posEliminarSingle, cantEliminarSingle);
 //mostrarVector(listaCompras);
 
+//No estoy seguro de que lo que yo entienda de este ultimo punto sea correcto.
 //Extra 1
 /*
 *Inserto nuevos elementos, el elemento Pringles es reemplazado
@@ -48,3 +49,4 @@ listaCompras[3] = "Pringles";
 listaCompras[5] = "Agua mineral";
 listaCompras[3] = "Terma";
 mostrarVector(listaCompras);
+
