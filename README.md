@@ -8,14 +8,30 @@
 
 ![Salida de consola](https://github.com/aeseb/Practica_2-3/blob/main/ImagArrayCrud/arrayCrud2.jpg?raw=true)
 
-1. **Valor `con_oferta` de pizza `actualiza` a `FALSE`**
+1. **Actualización de dos posiciones del vector**
 
-![Info de la tabla](https://github.com/aeseb/Practica_2-3/blob/main/ImagArrayCrud/arrayCrud3.jpg?raw=true)
+![Codigo](https://github.com/aeseb/Practica_2-3/blob/main/ImagArrayCrud/arrayCrud3.jpg?raw=true)
 
-![Tabla actualizada](https://github.com/aeseb/Practica_2-3/blob/main/ImagArrayCrud/arrayCrud4.jpg?raw=true)
+![Lista actualizada](https://github.com/aeseb/Practica_2-3/blob/main/ImagArrayCrud/arrayCrud4.jpg?raw=true)
 
-1. **Se `borra` un registro de la tabla**
+1. **Inserción de dos nuevos elementos al vector**
 
-![Info de la tabla](https://github.com/aeseb/Practica_2-3/blob/main/ImagArrayCrud/arrayCrud5.jpg?raw=true)
+![Codigo](https://github.com/aeseb/Practica_2-3/blob/main/ImagArrayCrud/arrayCrud5.jpg?raw=true)
 
-![Registro borrado](https://github.com/aeseb/Practica_2-3/blob/main/ImagArrayCrud/arrayCrud6.jpg?raw=true)
+![Lista actualizada](https://github.com/aeseb/Practica_2-3/blob/main/ImagArrayCrud/arrayCrud6.jpg?raw=true)
+
+1. **Se eliminan dos elementos del vector**
+
+![Codigo](https://github.com/aeseb/Practica_2-3/blob/main/ImagArrayCrud/arrayCrud7.jpg?raw=true)
+
+![Lista actualizada](https://github.com/aeseb/Practica_2-3/blob/main/ImagArrayCrud/arrayCrud8.jpg?raw=true)
+
+# Extra 1
+
+1. **Inserto nuevos elementos, el elemento Pringles es reemplazado**
+   **por el elemento Terma y el elemento Aceitunas es reemplazado por**
+   **el elemento Agua mineral**
+
+![Codigo](https://github.com/aeseb/Practica_2-3/blob/main/ImagArrayCrud/arrayCrud9.jpg?raw=true)
+
+![Lista actualizada](https://github.com/aeseb/Practica_2-3/blob/main/ImagArrayCrud/arrayCrud10.jpg?raw=true)
